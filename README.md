@@ -2,7 +2,11 @@
 Virtual Assistant
 
 
-codingan ini cuma iseng" aja. 
-karena tertarik dengan Machine Learning
+Codingan ini cuma iseng" aja. 
+Karena tertarik dengan Machine Learning
 
-next akan ada project lagi yang lain ^_^
+Disini ada Virtual Assistant sama Chat Auto WhatsApp
+
+Semua codingan menggunakan Python
+
+Next akan ada project lagi yang lain ^_^
